@@ -1,2 +1,4 @@
-# BOTY-
-A Discord Bot who can moderate >our Server.
+
+public static void main(String[] args){
+  
+}
